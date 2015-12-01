@@ -13,6 +13,7 @@ Contents:
    :caption: User Documentation
 
    authors
+   contributing
 
 .. toctree::
    :maxdepth: 2
