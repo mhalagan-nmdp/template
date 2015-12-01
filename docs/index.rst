@@ -10,10 +10,21 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :caption: User Documentation
+
+   authors
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Install
+
+   installation
+
+.. toctree::
+   :maxdepth: 2
    :glob:
 
    *
-
 
 
 Indices and tables
