@@ -20,6 +20,7 @@ Contents:
    :caption: Install
 
    installation
+   usage
 
 .. toctree::
    :maxdepth: 2
